@@ -23,4 +23,4 @@ Razones por las cuales se ha vuelto tan popular:
 
 Algunas grandes empresas han usado python gracias a la gran **versatilidad** que tiene, debido a que se puede emplear para hacer muchas cosas, desde desarrollo de videojuegos hasta astronomía.
 
-Se espera que python se convierta en el lenguaje **más usado, dejando obsoleta a sus competencias.**. 
+Se espera que python se convierta en el lenguaje **más usado, dejando obsoleta a sus competencias.**
